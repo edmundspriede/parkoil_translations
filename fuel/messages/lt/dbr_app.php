@@ -17,8 +17,8 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  'All' => 'все',
-  'Amount' => 'Сумма',
-  'Current' => 'текущий',
-  'Total' => 'Всего',
+  'All' => 'Visi',
+  'Amount' => 'Suma',
+  'Current' => 'Einamasis',
+  'Total' => 'Viso',
 );

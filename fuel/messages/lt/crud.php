@@ -41,13 +41,6 @@ return array (
   'BcarId.bcar_notes' => 'Pastabos',
   'BcarId.bcar_reg_number' => 'Automobilio numeris',
   'BcarId.bcar_status' => 'Būsena',
-  'BcbdCompanyBranchDay.bcbd_ccbr_id' => '',
-  'BcbdCompanyBranchDay.bcbd_client_ccmp_id' => '',
-  'BcbdCompanyBranchDay.bcbd_date' => '',
-  'BcbdCompanyBranchDay.bcbd_id' => '',
-  'BcbdCompanyBranchDay.bcbd_notes' => '',
-  'BcbdCompanyBranchDay.bcbd_number' => '',
-  
   'Can not create Storno for not closed item' => 'Neįmanoma sukurti STORNO neuždarytam laikotarpiui',
   'Can not edit closed refill' => 'Negalite keisti uždaryto laikotarpio',
   'Car' => 'Automobilis',

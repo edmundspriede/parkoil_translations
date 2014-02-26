@@ -1,0 +1,18 @@
+return array (
+  'Cancel' => 'Отменить',
+  'Create' => 'Создать',
+  'Data' => 'Данные',
+  'Delete' => 'Удалить',
+  'Do you want to delete this item?' => 'Удалить?',
+  'Fields with <span class="required">*</span> are required.' => '',
+  'Invalid request. Please do not repeat this request again.' => '',
+  'Manage' => 'Управлать',
+  'Relations' => 'Отношения',
+  'Reset' => 'Сброс',
+  'Save' => 'Сохранить',
+  'Search' => 'Поиск',
+  'The requested page does not exist.' => '',
+  'Update' => 'Обновить',
+  'View' => 'Смотреть',
+  'List' => 'Список',
+);

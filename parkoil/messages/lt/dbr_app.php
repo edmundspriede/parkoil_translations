@@ -69,5 +69,6 @@ return array (
   'December' => 'Gruodis',
   'This year' => 'Šiais metais',
   'Last year' => 'Praeitais metais'
+  'customer office' => 'личный кабинет'  
     
 );

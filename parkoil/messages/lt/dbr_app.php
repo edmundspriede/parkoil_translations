@@ -69,7 +69,7 @@ return array (
   'December' => 'Gruodis',
   'This year' => 'Šiais metais',
   'Last year' => 'Praeitais metais',
-  'customer office' => 'личный кабинет'  ,
-  'Click to edit' => 'Нажмите, чтобы изменить'
+  'customer office' => 'Asmeninis kabinetas'  ,
+  'Click to edit' => 'Paspauskite tam, kad pakeisti'
     
 );
